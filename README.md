@@ -16,8 +16,7 @@
   <img align="center" alt="0502j-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="0502j-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   
-  <img align="right" alt="0502j-piccrew" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202201/1333071_HGctoTOv.png">
-</div>
+ </div>
   
 
   ##
