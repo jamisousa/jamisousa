@@ -1,4 +1,4 @@
-## ☕ Hey! Welcome to my profile! 
+## 🦋 Hi there! Welcome to my profile! 
 
 <div align="center">
   <a href="https://github.com/0502j">
