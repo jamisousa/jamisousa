@@ -35,3 +35,14 @@
   <a href="https://www.linkedin.com/in/jamiledsousa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+
+
+<br>
+
+<div align="right">
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=4tq5rj8i6uoku3skby7hdjczj&count=1)
+
+</div>
+
