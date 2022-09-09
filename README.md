@@ -46,7 +46,7 @@
 
 <div align="left">
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=4tq5rj8i6uoku3skby7hdjczj&count=1)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=taehyungsfanta&count=1)
 
 </div>
 
