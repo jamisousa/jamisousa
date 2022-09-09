@@ -2,7 +2,7 @@
 
 ### 🌹 Hi there! ~
 
-<img align="left" alt="0502j-CSS" height="5" width="4000" src="https://user-images.githubusercontent.com/71787801/189453542-de07c9b2-c386-4504-829f-5aa0378af67b.png">
+<img align="left" alt="0502j-CSS" height="3" width="4000" src="https://user-images.githubusercontent.com/71787801/189453542-de07c9b2-c386-4504-829f-5aa0378af67b.png">
 
 <br><br>
 
@@ -27,6 +27,8 @@
  </div>
   
 <br>
+
+<img align="left" alt="0502j-CSS" height="0.5" width="400" src="https://user-images.githubusercontent.com/71787801/189453542-de07c9b2-c386-4504-829f-5aa0378af67b.png">
 
  #### Contact
  
