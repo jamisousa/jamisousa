@@ -1,12 +1,18 @@
-## 🦋 Hi there! ~
+
+
+### 🌹 Hi there! ~
+
+<img align="left" alt="0502j-CSS" height="5" width="4000" src="https://user-images.githubusercontent.com/71787801/189453542-de07c9b2-c386-4504-829f-5aa0378af67b.png">
+
+<br><br>
 
 <div align="center">
   <a href="https://github.com/0502j">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0502j&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0502j&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0502j&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0502j&layout=compact&langs_count=7&theme=calm"/>
 </div>
   
- #### Studying...
+ ##### Studying...
 <div style="display: inline_block"><br>
   <img align="center" alt="0502j-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="0502j-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
