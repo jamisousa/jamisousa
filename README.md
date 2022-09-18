@@ -1,15 +1,15 @@
 
 
-### 🌹 Hi there! ~
+### 🌸 Hi there! ~
 
-<img align="left" alt="0502j-CSS" height="3" width="4000" src="https://user-images.githubusercontent.com/71787801/189453542-de07c9b2-c386-4504-829f-5aa0378af67b.png">
+<img align="left" alt="0502j-CSS" height="3" width="4000" src="https://htmlcolorcodes.com/assets/images/colors/pastel-pink-color-solid-background-1920x1080.png">
 
 <br><br>
 
 <div align="center">
   <a href="https://github.com/0502j">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0502j&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0502j&layout=compact&langs_count=7&theme=calm"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0502j&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0502j&layout=compact&langs_count=7&theme=bear"/>
 </div>
   
  #### Studying...
@@ -28,7 +28,7 @@
   
 <br>
 
-<img align="left" alt="0502j-CSS" height="0.5" width="400" src="https://user-images.githubusercontent.com/71787801/189453542-de07c9b2-c386-4504-829f-5aa0378af67b.png">
+<img align="left" alt="0502j-CSS" height="0.5" width="400" src="https://htmlcolorcodes.com/assets/images/colors/pastel-pink-color-solid-background-1920x1080.png">
 
  #### Contact
  
