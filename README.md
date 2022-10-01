@@ -1,15 +1,15 @@
 
 
-### 🌸 Hi there! ~~
+### 🧩 Hi there! ~~
 
-<img align="left" alt="0502j-CSS" height="3" width="4000" src="https://htmlcolorcodes.com/assets/images/colors/pastel-pink-color-solid-background-1920x1080.png">
+<img align="left" alt="0502j-CSS" height="3" width="4000" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Chartreuse_verde-lim%C3%A3o.jpg">
 
 <br><br>
 
 <div align="center">
   <a href="https://github.com/0502j">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0502j&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0502j&layout=compact&langs_count=7&theme=bear"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0502j&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0502j&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
  #### Studying...
@@ -28,7 +28,7 @@
   
 <br>
 
-<img align="left" alt="0502j-CSS" height="0.5" width="400" src="https://htmlcolorcodes.com/assets/images/colors/pastel-pink-color-solid-background-1920x1080.png">
+<img align="left" alt="0502j-CSS" height="0.5" width="400" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Chartreuse_verde-lim%C3%A3o.jpg">
 
  #### Contact
  
