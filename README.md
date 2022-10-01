@@ -2,7 +2,7 @@
 
 ### 🧩 Hi there! ~~
 
-<img align="left" alt="0502j-CSS" height="3" width="4000" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Chartreuse_verde-lim%C3%A3o.jpg">
+<img align="left" alt="0502j-CSS" height="0.5px" width="4000px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Chartreuse_verde-lim%C3%A3o.jpg">
 
 <br><br>
 
