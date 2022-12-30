@@ -18,7 +18,7 @@
   <img align="center" alt="0502j-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="0502j-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="0502j-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="right" height="250" src="https://64.media.tumblr.com/f632032c32afc0961bbe9a4b31afc7ee/7c2151bb9626382f-c1/s540x810/7acff34bf600346f1353cdb3af39876d36b8b818.gifv">
+  <img align="right" height="250" src="https://i.pinimg.com/originals/13/c3/d3/13c3d3bffb60a8ca2a9f652c61bfc904.gif">
 </section>
   
 <br>
