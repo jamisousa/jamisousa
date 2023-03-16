@@ -10,14 +10,21 @@
   <img align="center" alt="0502j-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="0502j-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"> 
   <img align="center" alt="0502j-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="0502j-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">                         </section>
+  <img align="center" alt="0502j-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">                         
+</section>
+
+  <br>
+
+<section align="center">
+      <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/size/110x110/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png">
+</section>
 
   <br>
 
 <section align="center">
   <a href="https://github.com/0502j">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0502j&show_icons=true&theme=material-palenight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0502j&layout=compact&langs_count=8&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0502j&show_icons=false&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0502j&layout=compact&langs_count=6&theme=material-palenight"/>
 </section>
                                                                                                                                                       
 <br>
