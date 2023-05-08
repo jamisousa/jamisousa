@@ -12,7 +12,6 @@
   <img align="center" alt="0502j-CSS" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=black">
   <img align="center" alt="0502j-CSS" height="30" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&color=black">
   <img align="center" alt="0502j-CSS" height="30" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&color=black">
-  <img align="center" alt="0502j-CSS" height="30" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&color=black">
 </section>
 
 </section>
