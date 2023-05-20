@@ -40,7 +40,10 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=1a1919" alt="LinkedIn"/>
     </a>
       <a href="https://stackoverflow.com/users/21220217/jamile-de-sousa" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=1a1919" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=1a1919" alt="Stackoverflow"/>
+    </a>
+        <a href="https://steamcommunity.com/id/jamsousa/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&color=1a1919" alt="Steam"/>
     </a>
 </section>
 
