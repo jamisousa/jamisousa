@@ -52,8 +52,8 @@
 
 <section align="center">
   <a href="https://github.com/0502j">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0502j&show_icons=false&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0502j&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamisousa&show_icons=false&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamisousa&layout=compact&langs_count=6&theme=dark"/>
 </section>
                                                                                                                                                                                                                                                                                               
 <br>
