@@ -33,7 +33,7 @@
 <section align="left">
   <img align='left' src='https://static.wikia.nocookie.net/omori/images/c/c3/Omori_%28Keyboard%29.gif/revision/latest?cb=20220308093824&format=original' width='40'>
   <h4>Get to know me</h4>
-      <a href="https://www.instagram.com/jam_.sousa/" target="_blank">
+      <a href="https://www.instagram.com/jamiledsousa" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=1a1919" alt="Instagram"/>
     </a>
     <a href="https://www.linkedin.com/in/jamsousa" target="_blank">
