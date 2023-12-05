@@ -6,17 +6,17 @@
   <h4>Skills</h4>
 </section>
 
-<section align="left">
-  <img align="center" alt="0502j-CSS" height="30" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=black">
-  <img align="center" alt="0502j-CSS" height="30" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=black">
-  <img align="center" alt="0502j-CSS" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=black">
-  <img align="center" alt="0502j-CSS" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=black">
-  <img align="center" alt="0502j-CSS" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=black">
-  <img align="center" alt="0502j-CSS" height="30" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&color=black">
-  <img align="center" alt="0502j-CSS" height="30" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&color=black">
-  <img align="center" alt="Flutter" height="30" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=white&color=black">
-  <img align="center" alt="Flutter" height="30" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&color=black">
-</section>
+<div align="center">
+  <img " alt="0502j-CSS" height="30" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=black">
+  <img alt="0502j-CSS" height="30" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=black">
+  <img  alt="0502j-CSS" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=black">
+  <img alt="0502j-CSS" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=black">
+  <img alt="0502j-CSS" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=black">
+  <img  alt="0502j-CSS" height="30" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&color=black">
+  <img  alt="0502j-CSS" height="30" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&color=black">
+  <img  alt="Flutter" height="30" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=white&color=black">
+  <img alt="Flutter" height="30" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&color=black">
+</div>
 
 <section align="left">
   <img align='left' src='https://static.wikia.nocookie.net/omori/images/6/61/WS_Lightbulb_Sprite_1.gif/revision/latest?cb=20220726000602&format=original' width='40'>
