@@ -52,10 +52,10 @@
 <br><br>
 
 
-<section align="center">
+<div align="center">
   <a href="https://github.com/0502j">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamisousa&show_icons=false&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamisousa&layout=compact&langs_count=6&theme=dark"/>
-</section>
+</div>
                                                                                                                                                                                                                                                                                               
 <br>
