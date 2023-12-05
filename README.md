@@ -1,6 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=BDBBBB&width=435&lines=Hi+there,+welcome+to+my+profile!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BDBBBB&repeat=false&random=false&width=435&lines=Hi+there!+Welcome+to+my+profile)](https://git.io/typing-svg)
 
 <section align="left">
   <img align='left' src='https://static.wikia.nocookie.net/omori/images/6/66/Mewo_Sleep_%28White_Space%29.gif/revision/latest?cb=20220208120101&format=original' width='40'>
@@ -12,6 +11,9 @@
   <img align="center" alt="0502j-CSS" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=black">
   <img align="center" alt="0502j-CSS" height="30" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&color=black">
   <img align="center" alt="0502j-CSS" height="30" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&color=black">
+    <img align="center" alt="Flutter" height="30" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=white&color=black">
+  <img align="center" alt="Flutter" height="30" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&color=black">
+
 </section>
 
 </section>
