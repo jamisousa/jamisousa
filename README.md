@@ -24,9 +24,9 @@
   <img align='left' src='https://static.wikia.nocookie.net/omori/images/6/61/WS_Lightbulb_Sprite_1.gif/revision/latest?cb=20220726000602&format=original' width='40'>
   <h4>Achievements </h4>
   <section align="left">
-        <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/size/110x110/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png">
-         <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/size/220x220/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png">
-           <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/size/110x110/images/a12fff38-aab2-4643-be27-7e5c39ddc75c/image.png">
+        <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/9dc6345e-db80-44de-bb44-0c78775e53fa/image.png">
+         <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png">
+           <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/87df3ac8-1afb-4bdc-80ee-bef9f8cb65d6/image.png">
              <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
 
   </section>
