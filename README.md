@@ -24,11 +24,11 @@
   <img align='left' src='https://static.wikia.nocookie.net/omori/images/6/61/WS_Lightbulb_Sprite_1.gif/revision/latest?cb=20220726000602&format=original' width='40'>
   <h4>Achievements </h4>
   <section align="left">
-        <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/9dc6345e-db80-44de-bb44-0c78775e53fa/image.png">
-         <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png">
-           <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/87df3ac8-1afb-4bdc-80ee-bef9f8cb65d6/image.png">
-             <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
-
+    <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/size/340x340/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob">
+    <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/9dc6345e-db80-44de-bb44-0c78775e53fa/image.png">
+    <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png">
+    <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/87df3ac8-1afb-4bdc-80ee-bef9f8cb65d6/image.png">
+    <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
   </section>
 </section>
 
