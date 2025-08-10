@@ -14,10 +14,10 @@
   <img alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=black">
   <img  alt="Flutter" height="30" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&color=black">
   <img  alt="Dart" height="30" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&color=black">
-  <img  alt="cypress" height="30" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=white&color=black">
+  <img  alt="Cypress" height="30" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=white&color=black">
   <img alt="Jest" height="30" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&color=black">
-  <img alt="Wordpress" height="30" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&color=black">
-
+  <img alt="Webpack" height="30" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white&color=black">
+  <img alt="Unity" height="30" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white&color=black">
 </div>
 
 <section align="left">
@@ -25,6 +25,7 @@
   <h4>Achievements </h4>
   <section align="left">
     <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/size/340x340/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob">
+    <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/a7bea4b9-3704-4905-8681-aeaf64efd2f1/blob">
     <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/9dc6345e-db80-44de-bb44-0c78775e53fa/image.png">
     <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png">
     <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/87df3ac8-1afb-4bdc-80ee-bef9f8cb65d6/image.png">
