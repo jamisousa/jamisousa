@@ -1,7 +1,5 @@
 
-<br><br>
-
-
+<br>
 <section align="left">
   <img align='left' src='https://static.wikia.nocookie.net/omori/images/6/66/Mewo_Sleep_%28White_Space%29.gif/revision/latest?cb=20220208120101&format=original' width='40'>
   <h4>Skills</h4>
