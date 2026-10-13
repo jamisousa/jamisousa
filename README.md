@@ -1,13 +1,13 @@
 
 <table border="0">
 <tr>
-<td width="100%" valign="middle" align="center">
+<td width="65%" valign="middle" align="center">
 <img src="https://github.com/user-attachments/assets/b7d7d9bc-341e-4a86-baec-c954c6094b7f" alt="Concept Art by Bo Chen" width="500" />
 <br>
 <p align="center">
 <img alt="Color palette" src="https://github.com/user-attachments/assets/08156790-1d17-4405-b8d0-e426a04c655e" width="100%" height="20" />
 </td>
-<td width="65%" valign="middle">
+<td width="35%" valign="middle">
 
 ```
 about me
