@@ -29,7 +29,7 @@ about me
 </td>
 </table>
 
-<br><br>
+<br>
 
 
 <table border="0">
@@ -68,7 +68,7 @@ always looking to expand my technical knowledge
 
 </table>
 
-<br><br>
+<br>
 
 <table border="0">
 <tr>
@@ -108,7 +108,7 @@ achievements
 </table>
 
 
-<br><br>
+<br>
 
 <table border="0">
 <tr>
@@ -146,5 +146,3 @@ Feel free to connect with me!
 
 <br><br>
 
-
-                   
