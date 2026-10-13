@@ -1,10 +1,49 @@
 
+<table border="0">
+<tr>
+<td width="100%" valign="middle" align="center">
+<img src="https://github.com/user-attachments/assets/b7d7d9bc-341e-4a86-baec-c954c6094b7f" alt="Concept Art by Bo Chen" width="500" />
 <br>
-<section align="left">
-  <img align='left' src='https://static.wikia.nocookie.net/omori/images/6/66/Mewo_Sleep_%28White_Space%29.gif/revision/latest?cb=20220208120101&format=original' width='40'>
-  <h4>Skills</h4>
-</section>
+<p align="center">
+<img alt="Color palette" src="https://github.com/user-attachments/assets/08156790-1d17-4405-b8d0-e426a04c655e" width="100%" height="20" />
+</td>
+<td width="65%" valign="middle">
 
+```
+about me
+-------------------------
+
+- Front-End Software Developer @AIR Company / Compass UOL
+
+- Currently improving my skills in C# and Unity
+
+- Interested in game development and software design
+
+- Building projects to strengthen my programming
+
+- Always learning and exploring new technologies
+
+- Artist in my free time
+
+```
+</td>
+</table>
+
+<br><br>
+
+
+<table border="0">
+<tr>
+
+<td width="50%" valign="middle">
+
+```
+skills
+-------------------------
+
+Currently focused on front-end development and user experience,
+always looking to expand my technical knowledge
+```
 <div align="center">
   <img alt="html" height="30" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=black">
   <img alt="css" height="30" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=black">
@@ -19,26 +58,72 @@
   <img alt="Unity" height="30" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white&color=black">
 </div>
 
-<section align="left">
-  <img align='left' src='https://static.wikia.nocookie.net/omori/images/6/61/WS_Lightbulb_Sprite_1.gif/revision/latest?cb=20220726000602&format=original' width='40'>
-  <h4>Achievements </h4>
-  <section align="left">
+</td>
+<td width="50%" valign="middle" align="center">
+<img src="https://github.com/user-attachments/assets/65531c8c-2d0d-46bb-b5d7-6d4d82688067" alt="Concept Art by Bo Chen" width="500" />
+<br>
+<p align="center">
+<img alt="Color palette" src="https://github.com/user-attachments/assets/4d73eab1-0575-4fb6-9ace-f0a32476ddfb" width="100%" height="20" />
+</td>
+
+</table>
+
+<br><br>
+
+<table border="0">
+<tr>
+<td width="50%" valign="middle" align="center">
+<img src="https://github.com/user-attachments/assets/1795c666-2828-496e-8dfb-2f57166f6890" alt="Concept Art by Bo Chen" width="800" />
+<br>
+<p align="center">
+<img alt="Color palette" src="https://github.com/user-attachments/assets/b0466181-aff4-4c29-a308-6075b4207696" width="100%" height="20" />
+</td>
+  
+<td width="50%" valign="middle">
+
+```
+achievements
+-------------------------
+
+- Unity Essentials
+
+- Unity Jr Programmer
+
+- AWS Cloud Practitioner
+
+- AWS Technical Accredited
+
+- AWS Sales Accredited
+
+```
+  <section>
     <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/size/340x340/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob">
     <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/a7bea4b9-3704-4905-8681-aeaf64efd2f1/blob">
     <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/8f006312-3154-45bf-a845-4a043641e83c/blob">
     <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/46ea4542-72a8-46a1-8d68-b72c4ca50820/blob">
     <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
   </section>
-</section>
+  
+</td>
+</table>
 
-</section>
 
 <br><br>
 
+<table border="0">
+<tr>
+
+<td width="50%" valign="middle">
+
+```
+how to reach me
+-------------------------
+
+Feel free to connect with me!
+
+```
 <section align="left">
-  <img align='left' src='https://static.wikia.nocookie.net/omori/images/c/c3/Omori_%28Keyboard%29.gif/revision/latest?cb=20220308093824&format=original' width='40'>
-  <h4>Get to know me</h4>
-      <a href="https://www.instagram.com/jamiledsousa" target="_blank">
+    <a href="https://www.instagram.com/jamiledsousa" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=1a1919" alt="Instagram"/>
     </a>
     <a href="https://www.linkedin.com/in/jamsousa" target="_blank">
@@ -49,5 +134,17 @@
     </a>
 </section>
 
+</td>
+<td width="50%" valign="middle" align="center">
+<img src="https://github.com/user-attachments/assets/583cb1bc-6798-4261-a6fd-d161e2fe67d2" alt="Concept Art by Bo Chen" width="500" />
+<br>
+<p align="center">
+<img alt="Color palette" src="https://github.com/user-attachments/assets/35fe00fe-9639-4638-ab8e-b404500c0a09" width="100%" height="20" />
+</td>
+
+</table>
+
 <br><br>
-                                                  
+
+
+                   
