@@ -97,11 +97,11 @@ achievements
 
 ```
   <section>
-    <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/size/340x340/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob">
-    <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/a7bea4b9-3704-4905-8681-aeaf64efd2f1/blob">
-    <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/8f006312-3154-45bf-a845-4a043641e83c/blob">
-    <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/images/46ea4542-72a8-46a1-8d68-b72c4ca50820/blob">
-    <img align="center" alt="Accreditation" height="80px" src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+    <img align="center" alt="Accreditation" height="50px" src="https://images.credly.com/size/340x340/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob">
+    <img align="center" alt="Accreditation" height="50px" src="https://images.credly.com/images/a7bea4b9-3704-4905-8681-aeaf64efd2f1/blob">
+    <img align="center" alt="Accreditation" height="50px" src="https://images.credly.com/images/8f006312-3154-45bf-a845-4a043641e83c/blob">
+    <img align="center" alt="Accreditation" height="50px" src="https://images.credly.com/images/46ea4542-72a8-46a1-8d68-b72c4ca50820/blob">
+    <img align="center" alt="Accreditation" height="50px" src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
   </section>
   
 </td>
