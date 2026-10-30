@@ -13,7 +13,7 @@
 about me
 -------------------------
 
-- Front-End Software Developer @AIR Company / Compass UOL
+- Front-End Software Developer @AI/R Company - Compass UOL
 
 - Currently improving my skills in C# and Unity
 
